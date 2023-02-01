@@ -4,9 +4,7 @@
 
 # RealmRPC
 
-A Discord Rich Presence application for Realm of the Mad God.
-
-
+A simple Discord Rich Presence application for Realm of the Mad God that automatically updates information, such as the current dungeon and character stats, to be displayed on your discord profile.
 
 ## Installation
 
